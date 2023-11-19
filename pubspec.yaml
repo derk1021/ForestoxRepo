@@ -1,0 +1,80 @@
+name: tonyyaooo
+description: Flutter Project by ITCoderz. Flutter SDK Version for the app is 3.13.2 .
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  get: ^4.6.5
+
+  flutter_svg: ^2.0.7
+  flutter_staggered_animations: ^1.1.1
+  fl_chart: ^0.63.0
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.9.0
+  google_sign_in: ^6.1.5
+  sign_in_with_apple: ^5.0.0
+  cloud_firestore: ^4.9.1
+  image_picker: ^1.0.4
+  firebase_storage: ^11.2.6
+  path_provider: ^2.0.11
+  http: ^0.13.4
+  liquid_pull_to_refresh: ^3.0.1
+  firebase_ui_firestore: ^1.5.11
+  candlesticks: ^2.1.0
+  percent_indicator: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.3
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  image_path: "assets/images/app_logo/tonyyaooo_app_logo.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/app_logo/
+    - assets/images/social_media_icons/
+    - assets/images/auth_icons/
+    - assets/images/profile_image/
+    - assets/images/bottom_app_bar_icons/
+    - assets/images/search_icon/
+    - assets/images/forecast_image/
+    - assets/images/app_icons/
+    - assets/images/notification_images/
+    - assets/images/discussion_images/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Bold.ttf
+        - asset: assets/fonts/poppins/Poppins-Light.ttf
+        - asset: assets/fonts/poppins/Poppins-Medium.ttf
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
+    - family: NotoSansOsage
+      fonts:
+        - asset: assets/fonts/noto_sans_osage/NotoSansOsage-Regular.ttf
+    - family: RobotoFlex
+      fonts:
+        - asset: assets/fonts/roboto_flex/RobotoFlex-Regular.ttf

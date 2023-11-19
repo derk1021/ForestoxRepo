@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896214772331-e39d1edgqbpdv9etgu25gbp9kuvnml91.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896214772331-e39d1edgqbpdv9etgu25gbp9kuvnml91</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>896214772331-3h781k1atv7ac7v8s0p0vpbpsbeqap0o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOTAXC5FlNceV3GngbLyEx7fzFm9cD3XI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896214772331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.forestox.warenetic</string>
+	<key>PROJECT_ID</key>
+	<string>forestox-ee2a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>forestox-ee2a6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896214772331:ios:a62e361fd252bc3b779f2e</string>
+</dict>
+</plist>
