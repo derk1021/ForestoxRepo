@@ -1,4 +1,4 @@
-# tonyyaooo
+# Forestox
 
 Introducing Forestox, the finance app that revolutionizes stock market forecasting through the fusion of artificial intelligence and social media analysis. Harnessing the power of cutting-edge technology, our platform empowers investors with unprecedented insights, going beyond traditional metrics to deliver accurate predictions and enhance decision-making.
 
@@ -27,14 +27,14 @@ How it Works:
 Connect: Seamlessly link your investment accounts to integrate your portfolio and personal preferences.
 Analyze: Let our AI algorithms process vast amounts of data, including social media sentiment and opinions.
 Predict: Receive accurate and timely predictions based on comprehensive analysis.
-Act: Make informed decisions confidently, using the insights provided by [App Name].
+Act: Make informed decisions confidently, using the insights provided by Forestox.
 
 Why Choose Warenetic?
 
 Proven Accuracy: Our algorithms are meticulously fine-tuned to ensure precision and reliability in predictions.
 Innovative Approach: Embrace the future of finance with a pioneering app that leverages the power of AI and social media analysis.
 User-Centric Design: Enjoy a seamless user experience with a design focused on simplicity and functionality.
-Ready to transform your investment strategy? Download [App Name] now and unlock the potential of AI-driven stock market predictions. Your financial future awaits!
+Ready to transform your investment strategy? Download Forestox now and unlock the potential of AI-driven stock market predictions. Your financial future awaits!
 
 Account Deletion and Data Safety
 
